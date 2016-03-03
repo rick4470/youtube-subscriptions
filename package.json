@@ -1,0 +1,19 @@
+{
+  "name": "channel",
+  "version": "1.0.0",
+  "description": "Parse out Youtube Subscription and open chrome with channel in a new tab",
+  "main": "app.js",
+  "dependencies": {
+    "xml2js": "^0.4.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Youtube",
+    "Subscriptions"
+  ],
+  "author": "Rick Hernandez",
+  "license": "MIT"
+}
